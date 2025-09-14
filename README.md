@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-<!--
-**yrekx/yrekx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Welcome to my GitHub!</h3>
 
-Here are some ideas to get you started:
+<br>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/64429f02-4569-400e-bdd4-ff55d0796a91" alt="b-707" width="100%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://github.com/user-attachments/assets/2ddb5d38-8590-47c3-a0e8-f8549d722e2f" alt="Leaving Homer Simpson GIF" width="300" style="margin-right: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yrekx&show_icons=true&theme=highcontrast&hide=prs&hide_rank=true" alt="GitHub Stats" width="400" />
+</div>
+
+<br>
+
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/3b8ad3cc-851f-45af-8da2-af9cc031a9a3" controls muted width="600"></video>
+</div>
+
+
+### A little bit about me
+- 🔭My current interest lies in Android reverse engineering and penetration testing.
+- 🌱My long-term goal is to pursue a career as a bug bounty hunter.
+- 🎶Outside of tech, I have a deep passion for music, gaming, and traveling.
