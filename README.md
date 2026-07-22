@@ -4,8 +4,6 @@
 
 <br>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/64429f02-4569-400e-bdd4-ff55d0796a91" alt="b-707" width="100%">
-
   <img src="https://github.com/user-attachments/assets/2ddb5d38-8590-47c3-a0e8-f8549d722e2f" alt="Leaving Homer Simpson GIF" width="300" style="margin-right: 10px;"/>
 </div>
 
